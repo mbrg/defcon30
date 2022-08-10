@@ -24,6 +24,6 @@ What will you find in this here? (pre and post talk)
 
 - [ ] Source code for everything
 
-- [ ] The decks
+- [ ] The slides
 
 Stay tuned.
