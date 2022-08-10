@@ -12,7 +12,7 @@ In this talk, we demonstrate a host of attack techniques found in the wild, wher
 
 Finally, we will introduce an open-source recon tool that identifies opportunities for lateral movement and privilege escalation through low-code platforms.
 
-## Recommended reading materials
+## Recommended pre-reading materials
 
 - [Store by Zapier vulnerability](https://www.volkis.com.au/blog/security-design-flaw-in-storage-by-zapier/)
 
