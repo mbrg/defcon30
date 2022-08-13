@@ -22,8 +22,8 @@ What will you find in this here? (pre and post talk)
 
 - [x] Links to demos on YouTube, articles and references
 
-- [ ] Source code for everything
+- [x] Source code for everything
 
-- [ ] The slides
+- [x] The slides
 
-Stay tuned.
+<del>Stay tuned.</del> Enjoy!
