@@ -20,7 +20,7 @@ What will you find in this here? (pre and post talk)
 
 - [x] Contact details
 
-- [ ] Links to demos on YouTube, articles and references
+- [x] Links to demos on YouTube, articles and references
 
 - [ ] Source code for everything
 
