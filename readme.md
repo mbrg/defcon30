@@ -14,11 +14,11 @@ In this repo you'll find talk materials for:
 
 Quick tool access:
 
-- [Power-pwn](https://github.com/mbrg/power-pwn) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow [![stars](https://img.shields.io/github/stars/mbrg/power-pwn?icon=github&style=social)](https://github.com/mbrg/power-pwn)
+[![stars](https://img.shields.io/github/stars/mbrg/power-pwn?icon=github&style=social)](https://github.com/mbrg/power-pwn) [Power-pwn](https://github.com/mbrg/power-pwn) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow
 
-- [Powerful](https://github.com/mbrg/powerful) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow [![stars](https://img.shields.io/github/stars/mbrg/powerful?icon=github&style=social)](https://github.com/mbrg/powerful) 
+[![stars](https://img.shields.io/github/stars/mbrg/powerful?icon=github&style=social)](https://github.com/mbrg/powerful) [Powerful](https://github.com/mbrg/powerful) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow 
 
-- [ZapCreds](https://github.com/mbrg/zapcreds) - scan Zapier for shared credentials ready for exploit [![stars](https://img.shields.io/github/stars/mbrg/zapcreds?icon=github&style=social)](https://github.com/mbrg/zapcreds)
+[![stars](https://img.shields.io/github/stars/mbrg/zapcreds?icon=github&style=social)](https://github.com/mbrg/zapcreds) [ZapCreds](https://github.com/mbrg/zapcreds) - scan Zapier for shared credentials ready for exploit
 
 What will you find in this here? (pre and post talk)
 
