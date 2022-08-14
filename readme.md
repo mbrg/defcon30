@@ -14,9 +14,9 @@ In this repo you'll find talk materials for:
 
 Quick tool access:
 
-[![stars](https://img.shields.io/github/stars/mbrg/power-pwn?icon=github&style=social)](https://github.com/mbrg/power-pwn) [Power-pwn](https://github.com/mbrg/power-pwn) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow
+[![stars](https://img.shields.io/github/stars/mbrg/power-pwn?icon=github&style=social)](https://github.com/mbrg/power-pwn) [Power-pwn](https://github.com/mbrg/power-pwn) - repurpose Microsoft-trusted executables, service accounts and cloud services to power a malware operation
 
-[![stars](https://img.shields.io/github/stars/mbrg/powerful?icon=github&style=social)](https://github.com/mbrg/powerful) [Powerful](https://github.com/mbrg/powerful) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow 
+[![stars](https://img.shields.io/github/stars/mbrg/powerful?icon=github&style=social)](https://github.com/mbrg/powerful) [Powerful](https://github.com/mbrg/powerful) - install a backdoor on O365 Power Platform enabling creating, triggering and deleting any arbitrary automation
 
 [![stars](https://img.shields.io/github/stars/mbrg/zapcreds?icon=github&style=social)](https://github.com/mbrg/zapcreds) [ZapCreds](https://github.com/mbrg/zapcreds) - scan Zapier for shared credentials ready for exploit
 
