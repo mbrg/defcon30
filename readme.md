@@ -12,6 +12,14 @@ In this repo you'll find talk materials for:
 - [No-Code Malware: Windows 11 At Your Service](No_Code_Malware/)
 - [Low Code High Risk: Enterprise Domination via Low Code Abuse](Low_Code_High_Risk/)
 
+Quick tool access:
+
+- [Power-pwn](https://github.com/mbrg/power-pwn) [![stars](https://img.shields.io/github/stars/mbrg/power-pwn?icon=github&style=social)](https://github.com/mbrg/power-pwn) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow
+
+- [Powerful](https://github.com/mbrg/powerful) [![stars](https://img.shields.io/github/stars/mbrg/powerful?icon=github&style=social)](https://github.com/mbrg/powerful) - install a backdoor on Power Platform enabling creating, triggering and deleting any arbitrary flow 
+
+- [ZapCreds](https://github.com/mbrg/zapcreds) [![stars](https://img.shields.io/github/stars/mbrg/zapcreds?icon=github&style=social)](https://github.com/mbrg/zapcreds) - scan Zapier for shared credentials ready for exploit
+
 What will you find in this here? (pre and post talk)
 
 - [x] Recommended pre-reading for both talks

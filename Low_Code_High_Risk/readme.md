@@ -49,3 +49,5 @@ Finally, we will introduce an open-source recon tool that identifies opportuniti
 - [Power Automate Management, Microsoft Docs](https://docs.microsoft.com/en-us/connectors/flowmanagement/)
 
 ## Talk materials
+
+- [Slides](defcon30/Low_Code_High_Risk/Michael_Bargury_Low_Code_High_Risk.pdf)
