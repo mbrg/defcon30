@@ -20,7 +20,7 @@ Quick tool access:
 
 [![stars](https://img.shields.io/github/stars/mbrg/zapcreds?icon=github&style=social)](https://github.com/mbrg/zapcreds) [ZapCreds](https://github.com/mbrg/zapcreds) - scan Zapier for shared credentials ready for exploit
 
-What you'll find here (pre and post talk)
+What you'll find here (pre and post talk):
 
 - [x] Recommended pre-reading for both talks
 
