@@ -1,6 +1,6 @@
 # DEFCON30 Talk Materials
 
-[![stars](https://img.shields.io/github/stars/mbrg/defcon30?icon=github&style=social)](https://github.com/mbrg/defcon30)
+[![stars](https://img.shields.io/github/stars/mbrg?icon=github&style=social)](https://github.com/mbrg)
 [![twitter](https://img.shields.io/twitter/follow/mbrg0?icon=twitter&style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=mbrg0)
 [![email me](https://img.shields.io/badge/michael.bargury-owasp.org-red?logo=Gmail)](mailto:michael.bargury@owasp.org)
 
