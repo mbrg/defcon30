@@ -1,6 +1,6 @@
 # Low Code High Risk: Enterprise Domination via Low Code Abuse
 
-[View on DEFCON schedule](https://info.defcon.org/events/48565/)
+[View on DEFCON30 agenda](https://info.defcon.org/events/48565/)
 
 ## Abstract
 
@@ -51,3 +51,5 @@ Finally, we will introduce an open-source recon tool that identifies opportuniti
 ## Talk materials
 
 - [Slides](defcon30/Low_Code_High_Risk/Michael_Bargury_Low_Code_High_Risk.pdf)
+
+- [Video](https://www.youtube.com/watch?v=D3A62Rzozq4&t=1007s)

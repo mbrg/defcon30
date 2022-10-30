@@ -34,4 +34,6 @@ What you'll find here (pre and post talk):
 
 - [x] The slides
 
+- [x] Video recordings
+
 <del>Stay tuned.</del> Enjoy!
